@@ -13,6 +13,8 @@
     "nodemon": "^3.1.7"
   },
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "handlebars": "^4.7.8",
+    "socket.io": "^4.8.0"
   }
 }
